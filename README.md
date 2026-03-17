@@ -9,23 +9,51 @@
 
 ## 🚀 About Me
 
-```go
-type Developer struct {
-    Name       string
-    Location   string
-    Roles      []string
-    Passions   []string
-    CurrentFocus string
-}
+<table>
+<tr><td>
 
+### 👤 Developer Profile
+
+```go
+package main
+
+type Developer struct {
+    Name         string   // 🎭 Identity
+    Location     string   // 📍 Coordinates  
+    Roles        []string // 🎯 Expertise
+    Passions     []string // ❤️ Interests
+    CurrentFocus string   // 🔥 Now
+}
+```
+
+</td><td>
+
+### 🚀 Instance
+
+```go
 me := Developer{
     Name:     "Marti Izzy Hernandez",
     Location: "Barcelona, Spain 🇪🇸",
-    Roles:    []string{"Music Producer", "Full-Stack Developer", "AI Enthusiast"},
-    Passions: []string{"Audio Tech", "Open Source", "Terminal UIs", "AI/ML"},
-    CurrentFocus: "Building modern audio tools with Go + AI 🎧",
+    
+    Roles: []string{
+        "🎵 Music Producer",
+        "💻 Full-Stack Developer",
+        "🤖 AI Enthusiast",
+    },
+    
+    Passions: []string{
+        "🎧 Audio Tech",
+        "🔓 Open Source",
+        "💻 Terminal UIs",
+        "🧠 AI/ML",
+    },
+    
+    CurrentFocus: "Building modern audio tools with Go + AI 🎹",
 }
 ```
+
+</td></tr>
+</table>```
 
 💡 **What I Do:**
 - 🎵 **Music Production** - Techno, Schranz, Hardtek (Ableton Live + MIDI 2.0)
