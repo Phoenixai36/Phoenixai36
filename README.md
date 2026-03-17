@@ -1,6 +1,9 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey!+I'm+Martí+%22Izzy%22+Hernandez+%F0%9F%91%8B;Music+Producer+%7C+Full-Stack+Dev+%7C+32+yo;Barcelona+%F0%9F%87%AA%F0%9F%87%B8+%7C+Building+Audio+Tools+%F0%9F%8E%B5" alt="Typing SVG" /></div>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey!+I'm+Marti+Izzy+Hernandez+%F0%9F%91%8B;Music+Producer+%7C+Full-Stack+Dev+%7C+32+yo;Barcelona+%F0%9F%87%AA%F0%9F%87%B8+%7C+Building+Audio+Tools+%F0%9F%8E%B5)
+
+</div>
 
 ---
 
@@ -16,7 +19,7 @@ type Developer struct {
 }
 
 me := Developer{
-    Name:     "Martí "Izzy" Hernandez",
+    Name:     "Marti Izzy Hernandez",
     Location: "Barcelona, Spain 🇪🇸",
     Roles:    []string{"Music Producer", "Full-Stack Developer", "AI Enthusiast"},
     Passions: []string{"Audio Tech", "Open Source", "Terminal UIs", "AI/ML"},
